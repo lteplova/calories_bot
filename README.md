@@ -16,16 +16,25 @@
 ### Функционал сервиса
 
 Доступные команды:  
-/start - Начало работы  
-/set_profile - Настройка вашего профиля  
-/show_profile - Показать профиль  
-/log_water - Логирование воды  
-/log_food - Добавить прием еды  
-/log_workout - Логирование тренировок  
-/check_progress - Прогресс по воде и калориям  
-/norms - Нормы воды и калорий  
-/plot_water_progress - График потребления воды  
-/plot_calories_progress - График изменения калорий  
+`/start` - Начало работы  
+<img width="720" alt="image" src="https://github.com/user-attachments/assets/92fc3171-ae80-4873-abfa-0c2c8bdfecf8" />
+
+`/set_profile` - Настройка вашего профиля  
+
+<img width="666" alt="image" src="https://github.com/user-attachments/assets/b9142e43-d263-4b14-bc97-b08a8d6de8a4" />
+
+
+`/log_water` - Логирование воды  
+
+<img width="653" alt="image" src="https://github.com/user-attachments/assets/d6fb7c9e-1bf4-4e7b-a675-bac582db5d0f" />
+
+`/log_food` - Добавить прием еды  
+`/log_workout` - Логирование тренировок  
+`/check_progress` - Прогресс по воде и калориям  
+`/norms` - Нормы воды и калорий  
+`/plot_water_progress` - График потребления воды  
+`/plot_calories_progress` - График изменения калорий  
+`/show_profile` - Показать профиль  
 
 
 ### Результат деплоя на render.com
