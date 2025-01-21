@@ -23,6 +23,8 @@
 
 ### Функционал сервиса
 
+Скринкаст https://disk.yandex.ru/i/a1i3obUT94hgjw  
+
 Доступные команды:  
 `/start` - Начало работы  
 <img width="720" alt="image" src="https://github.com/user-attachments/assets/92fc3171-ae80-4873-abfa-0c2c8bdfecf8" />
