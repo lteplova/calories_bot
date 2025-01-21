@@ -39,11 +39,23 @@
 `/check_progress` - Прогресс по воде и калориям  
 <img width="649" alt="image" src="https://github.com/user-attachments/assets/f315b24b-2848-4343-b1b9-fe03ef6a41b3" />
 
-####Дополнительно:  
+#### Дополнительно:  
 `/norms` - Нормы воды и калорий  
+
+<img width="649" alt="image" src="https://github.com/user-attachments/assets/cb83d4ca-0c01-49d5-83e8-809c6ded91a7" />
+
 `/plot_water_progress` - График потребления воды  
+
+<img width="649" alt="image" src="https://github.com/user-attachments/assets/b333e677-27f6-4beb-9066-be3cadce69f3" />
+
 `/plot_calories_progress` - График изменения калорий  
+
+<img width="620" alt="image" src="https://github.com/user-attachments/assets/fbe9964e-0843-4448-932f-00a333294cb2" />
+
 `/show_profile` - Показать профиль  
+
+<img width="615" alt="image" src="https://github.com/user-attachments/assets/f6fc882c-78a0-49f7-ae92-5e3e39477303" />
+
 
 
 ### Результат деплоя на render.com
