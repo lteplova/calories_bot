@@ -28,9 +28,18 @@
 
 <img width="653" alt="image" src="https://github.com/user-attachments/assets/d6fb7c9e-1bf4-4e7b-a675-bac582db5d0f" />
 
-`/log_food` - Добавить прием еды  
+`/log_food` - Добавить прием еды 
+
+<img width="648" alt="image" src="https://github.com/user-attachments/assets/7affbf73-bc79-4e42-9c5d-a554be3cf663" />
+
 `/log_workout` - Логирование тренировок  
+
+<img width="647" alt="image" src="https://github.com/user-attachments/assets/a302af3c-39fa-49df-94b7-0a79dbc06769" />
+
 `/check_progress` - Прогресс по воде и калориям  
+<img width="649" alt="image" src="https://github.com/user-attachments/assets/f315b24b-2848-4343-b1b9-fe03ef6a41b3" />
+
+####Дополнительно:  
 `/norms` - Нормы воды и калорий  
 `/plot_water_progress` - График потребления воды  
 `/plot_calories_progress` - График изменения калорий  
