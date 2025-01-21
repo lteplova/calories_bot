@@ -13,6 +13,14 @@
 `сalories_activity.py` - вспомогательные функции для расчета каллорий и подключению к API  
 `states.py`  - вспомогательный файл с состояниями  
 
+установка:  
+`docker build -t calories_bot .`  
+запуск:  
+`docker run -d --name calories_bot calories_bot`  
+запуск приложения:  
+`python bot.py`
+
+
 ### Функционал сервиса
 
 Доступные команды:  
