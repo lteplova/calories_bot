@@ -30,4 +30,9 @@
 
 ### Результат деплоя на render.com
 
+![image](https://github.com/user-attachments/assets/34ff31e4-2c7b-4231-ab84-3608cbbf2bfa)
+
+Логи бота
+
+![image](https://github.com/user-attachments/assets/8936812d-2679-403c-8b37-fd79ea56bb5a)
 
