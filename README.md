@@ -30,9 +30,15 @@
 
 `/log_food` - Добавить прием еды 
 
+(расчет расхода калорий в зависимости от блюда выполняется с помощью API https://nutritionix.com)  
+
+
 <img width="648" alt="image" src="https://github.com/user-attachments/assets/7affbf73-bc79-4e42-9c5d-a554be3cf663" />
 
 `/log_workout` - Логирование тренировок  
+
+(расчет расхода калорий в зависимости от тренировки и времени выполняется с помощью API https://trackapi.nutritionix.com)  
+
 
 <img width="647" alt="image" src="https://github.com/user-attachments/assets/a302af3c-39fa-49df-94b7-0a79dbc06769" />
 
